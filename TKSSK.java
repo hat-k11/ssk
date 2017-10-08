@@ -18,7 +18,7 @@ public class TKSSK {
 			System.out.println(string);
 			count++;
 			if(string.equals("_tk_ssk")){
-				System.out.println("s‰ñ”"+count+"‰ñ");
+				System.out.println("Number of trials: "+count);
 				break;
 			}
 		}
