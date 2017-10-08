@@ -1,4 +1,4 @@
 ## ssk
 
 # そうだ、_tk_sskになろう
-Respect...https://shindanmaker.com/751549
+Respect...[くまくんの作った診断メーカー](https://shindanmaker.com/751549)
